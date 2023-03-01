@@ -1,0 +1,8 @@
+001 geografia
+cursada
+001 naturales
+final
+002 matematicas
+final
+003 matematicas
+cursada

@@ -1,0 +1,8 @@
+001 2500 Terror
+Colinas Sangrientas
+002 3000 Accion
+Terminator
+003 1500 Animada
+Toy story
+004 5000 Triller
+Camino hacia el terror

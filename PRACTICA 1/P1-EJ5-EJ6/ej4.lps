@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="11"/>
+    <BuildModes Active="Default"/>
+    <Units Count="7">
+      <Unit0>
+        <Filename Value="ej4.pas"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="17"/>
+        <CursorPos X="24" Y="30"/>
+        <UsageCount Value="35"/>
+        <Loaded Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="..\..\EJERCICIOS DEL FRECERO\FOD\Práctica 1\Ejercicio2.pas"/>
+        <UnitName Value="Practica1Ejercicio2"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="49" Y="15"/>
+        <UsageCount Value="9"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="..\..\EJERCICIOS DEL FRECERO\FOD\Práctica 1\Ejercicio3.pas"/>
+        <UnitName Value="Practica1Ejercicio3"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="32"/>
+        <UsageCount Value="9"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="..\..\EJERCICIOS DEL FRECERO\FOD\Práctica 1\Ejercicio4.pas"/>
+        <UnitName Value="Practica1Ejercicio4"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="9"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="..\..\EJERCICIOS DEL FRECERO\FOD\Práctica 1\Ejercicio5.pas"/>
+        <UnitName Value="Practica1Ejercicio5"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="138"/>
+        <CursorPos X="36" Y="23"/>
+        <UsageCount Value="16"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="..\..\EJERCICIOS DEL FRECERO\FOD\Práctica 1\Ejercicio7.pas"/>
+        <UnitName Value="Practica1Ejercicio5"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="9"/>
+      </Unit5>
+      <Unit6>
+        <Filename Value="..\P1-EJ3\ej3.lpr"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="151"/>
+        <CursorPos X="22" Y="14"/>
+        <UsageCount Value="11"/>
+      </Unit6>
+    </Units>
+    <JumpHistory HistoryIndex="-1"/>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes Count="0" ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

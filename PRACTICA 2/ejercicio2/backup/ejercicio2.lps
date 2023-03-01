@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="11"/>
+    <BuildModes Active="Default"/>
+    <Units Count="2">
+      <Unit0>
+        <Filename Value="ejercicio2.pas"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="148"/>
+        <CursorPos X="41" Y="162"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="..\..\P1-EJ4\ej4.lpr"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="13"/>
+        <CursorPos X="5" Y="30"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit1>
+    </Units>
+    <JumpHistory Count="24" HistoryIndex="23">
+      <Position1>
+        <Filename Value="..\..\P1-EJ4\ej4.lpr"/>
+        <Caret TopLine="140"/>
+      </Position1>
+      <Position2>
+        <Filename Value="..\..\P1-EJ4\ej4.lpr"/>
+        <Caret Line="149" Column="11" TopLine="140"/>
+      </Position2>
+      <Position3>
+        <Filename Value="ejercicio2.pas"/>
+        <Caret Line="66" Column="28" TopLine="45"/>
+      </Position3>
+      <Position4>
+        <Filename Value="ejercicio2.pas"/>
+        <Caret Line="21" Column="4" TopLine="7"/>
+      </Position4>
+      <Position5>
+        <Filename Value="ejercicio2.pas"/>
+        <Caret Line="38" Column="4" TopLine="23"/>
+      </Position5>
+      <Position6>
+        <Filename Value="ejercicio2.pas"/>
+        <Caret Line="64" Column="10" TopLine="47"/>
+      </Position6>
+      <Position7>
+        <Filename Value="ejercicio2.pas"/>
+        <Caret Line="69" Column="9" TopLine="47"/>
+      </Position7>
+      <Position8>
+        <Filename Value="ejercicio2.pas"/>
+        <Caret Line="76" TopLine="49"/>
+      </Position8>
+      <Position9>
+        <Filename Value="ejercicio2.pas"/>
+        <Caret Line="67" Column="20" TopLine="52"/>
+      </Position9>
+      <Position10>
+        <Filename Value="ejercicio2.pas"/>
+        <Caret Line="71" Column="76" TopLine="53"/>
+      </Position10>
+      <Position11>
+        <Filename Value="ejercicio2.pas"/>
+        <Caret Line="69" Column="9" TopLine="53"/>
+      </Position11>
+      <Position12>
+        <Filename Value="ejercicio2.pas"/>
+        <Caret Line="65" Column="24" TopLine="50"/>
+      </Position12>
+      <Position13>
+        <Filename Value="ejercicio2.pas"/>
+        <Caret Line="140" Column="21" TopLine="121"/>
+      </Position13>
+      <Position14>
+        <Filename Value="ejercicio2.pas"/>
+        <Caret Line="4" Column="12"/>
+      </Position14>
+      <Position15>
+        <Filename Value="ejercicio2.pas"/>
+        <Caret Line="103" Column="17" TopLine="89"/>
+      </Position15>
+      <Position16>
+        <Filename Value="ejercicio2.pas"/>
+        <Caret Line="102" Column="23" TopLine="90"/>
+      </Position16>
+      <Position17>
+        <Filename Value="ejercicio2.pas"/>
+        <Caret Line="107" Column="46" TopLine="94"/>
+      </Position17>
+      <Position18>
+        <Filename Value="ejercicio2.pas"/>
+        <Caret Line="123" Column="41" TopLine="107"/>
+      </Position18>
+      <Position19>
+        <Filename Value="ejercicio2.pas"/>
+        <Caret Line="125" Column="39" TopLine="113"/>
+      </Position19>
+      <Position20>
+        <Filename Value="ejercicio2.pas"/>
+        <Caret Line="134" Column="46" TopLine="117"/>
+      </Position20>
+      <Position21>
+        <Filename Value="ejercicio2.pas"/>
+        <Caret Line="132" Column="23" TopLine="119"/>
+      </Position21>
+      <Position22>
+        <Filename Value="ejercicio2.pas"/>
+        <Caret Line="121" Column="32" TopLine="156"/>
+      </Position22>
+      <Position23>
+        <Filename Value="ejercicio2.pas"/>
+        <Caret Line="161" Column="14" TopLine="148"/>
+      </Position23>
+      <Position24>
+        <Filename Value="ejercicio2.pas"/>
+        <Caret Line="155" Column="20" TopLine="143"/>
+      </Position24>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes Count="0" ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

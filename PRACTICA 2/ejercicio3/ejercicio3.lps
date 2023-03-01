@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="11"/>
+    <BuildModes Active="Default"/>
+    <Units Count="8">
+      <Unit0>
+        <Filename Value="ejercicio3.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="105"/>
+        <CursorPos Y="24"/>
+        <UsageCount Value="27"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="..\..\ejercicio3-archivodetalle2\project1.lpr"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="49"/>
+        <CursorPos Y="54"/>
+        <UsageCount Value="11"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="..\ejercicio2\ejercicio2.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="31"/>
+        <UsageCount Value="11"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="..\..\ejercicio4-mergeAcumulador\marge.lpr"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="20"/>
+        <CursorPos X="22" Y="33"/>
+        <UsageCount Value="11"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="..\..\..\..\..\SEGUNDO SEMESTRE\Taller de programacion\PROYECTOS-pascal\SEGUNDO SEMESTRE\Modulo imperativo\ejercicio 11\sin título.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="109"/>
+        <CursorPos Y="116"/>
+        <UsageCount Value="11"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="..\..\..\EJERCICIOS DEL FRECERO\FOD\Práctica 2\Ejercicio4.pas"/>
+        <UnitName Value="Practica2Ejercicio4"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="34"/>
+        <CursorPos X="26" Y="49"/>
+        <UsageCount Value="12"/>
+      </Unit5>
+      <Unit6>
+        <Filename Value="..\ejercicio4\ejercicio4.pas"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="49"/>
+        <CursorPos X="87" Y="83"/>
+        <UsageCount Value="10"/>
+      </Unit6>
+      <Unit7>
+        <Filename Value="..\..\..\EJERCICIOS DEL FRECERO\FOD\Práctica 2\Ejercicio5.pas"/>
+        <UnitName Value="Practica2Ejercicio5"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="88"/>
+        <UsageCount Value="10"/>
+      </Unit7>
+    </Units>
+    <General>
+      <ActiveWindowIndexAtStart Value="-1"/>
+    </General>
+    <JumpHistory HistoryIndex="-1"/>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes Count="0" ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

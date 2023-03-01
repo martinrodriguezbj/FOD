@@ -1,0 +1,36 @@
+procedure ultimaPos(var mae:maestro;var regU:ave;var posUltima:integer;var auxPos:Integer);
+begin
+  seek(mae,posUltima);
+  leer(mae,regU);  // 1 -2 3 -4 -5 6 EOF
+                  //  1  6 3 
+  while (regU.cod<0) and (auxPos<posUltima) do begin
+    posUltima:=posUltima-1;
+    seek(mae,posUltima);
+    leer(mae,regU);
+  end;
+end;
+
+
+
+procedure compactarArchivo(var mae:maestro);
+var
+  regm,regU:ave;
+  posUltima,auxPos:integer;
+begin
+  leer(mae,regm);
+  posUltima:=FileSize(mae);
+  while (regm.cod<>valorAlto) and (FilePos(mae)<posUltima) do begin
+    if (regm.cod<0)then begin
+      auxPos:=filePos(mae)-1;
+      posUltima:=posUltima-1;
+      ultimaPos(mae,regU,posUltima,auxPos);
+      seek(mae,auxPos);
+      if (filepos(mae)<>posUltima)then
+        write(mae,regU);
+    end;
+    leer(mae,regm);
+  end;
+  seek(mae,FilePos(mae)-1);
+  truncate(mae);
+  close(mae);
+end;

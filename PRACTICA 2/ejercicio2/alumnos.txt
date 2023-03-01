@@ -1,0 +1,6 @@
+001 Rodriguez
+7 1 Martin
+002 Riquelme
+6 2 Roman
+003 Palermo
+5 3 Martin

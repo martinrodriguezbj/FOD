@@ -1,0 +1,6 @@
+1 2 Hola como andas todo bien
+1 2 Nada aca probando el programa
+1 2 chau chau
+2 1 Nos veee
+2 3 Hola
+3 1 Listoo

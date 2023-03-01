@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="11"/>
+    <BuildModes Active="Default"/>
+    <Units Count="1">
+      <Unit0>
+        <Filename Value="ej3.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="114"/>
+        <CursorPos X="22" Y="127"/>
+        <UsageCount Value="23"/>
+        <Loaded Value="True"/>
+      </Unit0>
+    </Units>
+    <JumpHistory Count="12" HistoryIndex="11">
+      <Position1>
+        <Filename Value="ej3.lpr"/>
+        <Caret Line="28" Column="16" TopLine="8"/>
+      </Position1>
+      <Position2>
+        <Filename Value="ej3.lpr"/>
+        <Caret Line="33" Column="20" TopLine="12"/>
+      </Position2>
+      <Position3>
+        <Filename Value="ej3.lpr"/>
+        <Caret Line="11" Column="22"/>
+      </Position3>
+      <Position4>
+        <Filename Value="ej3.lpr"/>
+        <Caret Line="33" Column="17" TopLine="13"/>
+      </Position4>
+      <Position5>
+        <Filename Value="ej3.lpr"/>
+        <Caret Line="20" Column="21" TopLine="9"/>
+      </Position5>
+      <Position6>
+        <Filename Value="ej3.lpr"/>
+        <Caret Line="67" Column="101" TopLine="50"/>
+      </Position6>
+      <Position7>
+        <Filename Value="ej3.lpr"/>
+        <Caret Line="130" Column="22" TopLine="107"/>
+      </Position7>
+      <Position8>
+        <Filename Value="ej3.lpr"/>
+        <Caret Line="125" Column="7" TopLine="120"/>
+      </Position8>
+      <Position9>
+        <Filename Value="ej3.lpr"/>
+        <Caret Line="142" Column="24" TopLine="121"/>
+      </Position9>
+      <Position10>
+        <Filename Value="ej3.lpr"/>
+        <Caret Line="145" Column="26" TopLine="123"/>
+      </Position10>
+      <Position11>
+        <Filename Value="ej3.lpr"/>
+        <Caret Line="142" Column="24" TopLine="120"/>
+      </Position11>
+      <Position12>
+        <Filename Value="ej3.lpr"/>
+        <Caret Line="127" Column="31" TopLine="106"/>
+      </Position12>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes Count="0" ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
